@@ -7,7 +7,7 @@
 - 🔭 I’m currently working at Itau Unibanco.
 - ⚡ I like learning and experimenting with new technologies as they come.
 - 🌱 I’m currently learning React.
-- 
+
 <p align="center">
   <img src = "https://github.com/williamgundim/williamgundim/blob/main/images/gif_git.gif" width="375" align = "center">
   <br><br>
