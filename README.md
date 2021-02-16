@@ -1,8 +1,8 @@
 ### Hi there, I'm William 👋
 
-### Front-End Developer || Software Enginner || Angular
 
-<img src = "https://github.com/williamgundim/williamgundim/blob/main/images/angular.png" width="80" align = "right">
+
+### Front-End Developer || Software Enginner || Angular <img src = "https://github.com/williamgundim/williamgundim/blob/main/images/angular.png" width="80" align = "right">
 
 <p align="center">
   <img src = "https://github.com/williamgundim/williamgundim/blob/main/images/gif_git.gif" width="375" align = "center">
